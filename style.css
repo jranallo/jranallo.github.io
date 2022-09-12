@@ -1,0 +1,19 @@
+#banner {
+    background-color: rgba(36, 67, 121, 0.491);
+    height: 200px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0px;
+    line-height: 200px;
+}
+
+body {
+    margin: 0px;
+    background-color: rgb(125, 125, 125);
+}
+
+.bodyText {
+    color: #ffffff;
+}
